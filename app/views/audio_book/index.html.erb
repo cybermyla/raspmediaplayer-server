@@ -1,0 +1,10 @@
+<h1>Maminy audioknihy</h1>
+<table>
+
+  <% @audiobooks.each do |article| %>
+    <tr>
+      <td><%= link_to article.name, "/audiobook/detail/#{article.id}" %></td>
+    </tr>
+  <% end %>
+</table>
+<%= button_to "Reload", action: "reload" %>

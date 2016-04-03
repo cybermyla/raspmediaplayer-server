@@ -1,0 +1,40 @@
+Sun  3 Apr 20:35:48 CEST 2016 Stopping playback
+Sun  3 Apr 20:36:50 CEST 2016 Stopping playback
+Sun Apr  3 20:37:19 CEST 2016 Killing mpg123 process
+Sun Apr  3 20:37:19 CEST 2016 Killing process 2191
+Sun Apr  3 20:37:19 CEST 2016 Killing process 2740
+Sun Apr  3 20:37:19 CEST 2016 Killing process 3024
+Sun  3 Apr 20:38:01 CEST 2016 Starting start_mpg.sh script
+Sun  3 Apr 20:38:01 CEST 2016 mpg123 is now running
+Sun  3 Apr 20:38:02 CEST 2016 playing /home/pi/Music/AudioBooks/221 Tales from The Thousand and One Nights/Track 12.mp3
+Sun  3 Apr 20:38:09 CEST 2016 Stopping playback
+Sun Apr  3 20:38:25 CEST 2016 Killing mpg123 process
+Sun Apr  3 20:38:25 CEST 2016 Killing process 3065
+Sun Apr  3 20:38:25 CEST 2016 Killing process 3094
+Sun  3 Apr 20:39:29 CEST 2016 Starting start_mpg.sh script
+Sun  3 Apr 20:39:29 CEST 2016 mpg123 is now running
+Sun  3 Apr 20:39:30 CEST 2016 playing /home/pi/Music/AudioBooks/221 Tales from The Thousand and One Nights/Track 12.mp3
+Sun  3 Apr 20:39:48 CEST 2016 Stopping playback
+Sun Apr  3 20:40:48 CEST 2016 Killing mpg123 process
+Sun Apr  3 20:40:48 CEST 2016 Killing process 3138
+Sun Apr  3 20:40:48 CEST 2016 Killing process 3216
+Sun  3 Apr 20:42:41 CEST 2016 Starting start_mpg.sh script
+Sun  3 Apr 20:42:41 CEST 2016 mpg123 is now running
+Sun  3 Apr 20:42:42 CEST 2016 playing /home/pi/Music/AudioBooks/221 Tales from The Thousand and One Nights/Track 12.mp3
+Sun  3 Apr 20:42:46 CEST 2016 Stopping playback
+Sun  3 Apr 20:43:59 CEST 2016 Starting start_mpg.sh script
+Sun  3 Apr 20:43:59 CEST 2016 Deleting named pipe mediapipe
+Sun  3 Apr 20:43:59 CEST 2016Started mpg123
+Sun  3 Apr 20:44:00 CEST 2016 playing /home/pi/Music/AudioBooks/221 Tales from The Thousand and One Nights/Track 12.mp3
+Sun  3 Apr 20:44:03 CEST 2016 Stopping playback
+Sun  3 Apr 20:44:03 CEST 2016 Killing mpg123 process
+Sun  3 Apr 20:44:03 CEST 2016 Killing process 3333
+Sun  3 Apr 20:44:03 CEST 2016 Killing process 3431
+Sun  3 Apr 20:44:03 CEST 2016 Killing process 3446
+Sun  3 Apr 20:44:55 CEST 2016 Starting start_mpg.sh script
+Sun  3 Apr 20:44:55 CEST 2016 mpg123 is now running
+Sun  3 Apr 20:44:56 CEST 2016 playing /home/pi/Music/AudioBooks/113 Incredible Earth/Track 05.mp3
+Sun  3 Apr 20:45:06 CEST 2016 Stopping playback
+Sun  3 Apr 20:45:06 CEST 2016 Killing mpg123 process
+Sun  3 Apr 20:45:06 CEST 2016 Killing process 3498
+Sun  3 Apr 20:45:06 CEST 2016 Killing process 3517

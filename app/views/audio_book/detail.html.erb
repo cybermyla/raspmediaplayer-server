@@ -1,0 +1,20 @@
+<h1><%= @audiobook.name %></h1>
+
+<table>
+  <% @audiobook.audio_book_texts.each do |text| %>
+    <tr>
+        <td><%= link_to text.path, "downloadpdf/#{@audiobook.id}/#{text.id}" %></td>
+    </tr>
+  <% end %>
+</table>
+
+<table>
+  <% @audiobook.audio_book_audios.each do |text| %>
+    <tr>
+      <td>
+        <%= link_to text.path, "downloadaudio/#{@audiobook.id}/#{text.id}" %>
+      </td>
+    </tr>
+  <% end %>
+</table>
+<%= button_to "Home", action: "home" %>

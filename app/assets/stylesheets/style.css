@@ -1,0 +1,31 @@
+body {
+  font-family: Verdana;
+  background-color: #E5DDF0;
+  color:#55347E;
+}
+
+h1 {
+  margin: 20px 10px 20px 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+table {
+  border: 1px solid black;
+  width: 100%;
+  margin-top: 10px;
+}
+
+table td {
+  border: 1px solid #C2B1D8;
+  padding-top: 25px;
+  padding-right: 16px;
+  padding-bottom: 25px;
+  padding-left: 16px;
+  background-color: #9A81B9;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
